@@ -1,0 +1,15 @@
+E:\.Net\lojinha\bin\Debug\net7.0\lojinha.exe
+E:\.Net\lojinha\bin\Debug\net7.0\lojinha.deps.json
+E:\.Net\lojinha\bin\Debug\net7.0\lojinha.runtimeconfig.json
+E:\.Net\lojinha\bin\Debug\net7.0\lojinha.dll
+E:\.Net\lojinha\bin\Debug\net7.0\lojinha.pdb
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.csproj.AssemblyReference.cache
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.AssemblyInfoInputs.cache
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.AssemblyInfo.cs
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.csproj.CoreCompileInputs.cache
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.dll
+E:\.Net\lojinha\obj\Debug\net7.0\refint\lojinha.dll
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.pdb
+E:\.Net\lojinha\obj\Debug\net7.0\lojinha.genruntimeconfig.cache
+E:\.Net\lojinha\obj\Debug\net7.0\ref\lojinha.dll
